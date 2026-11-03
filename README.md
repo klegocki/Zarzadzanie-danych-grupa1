@@ -33,6 +33,7 @@ Obecnie jesteśmy na etapie zakupu i przygotowania serwera. Zdecydowaliśmy się
 | Kopie zapasowe | Codzienny backup z ostatnich 24 godzin |
 | Transfer | Nielimitowany |
 | Przepustowość do sieci publicznej | 500 Mbps |
+| IP serwera | 57.131.165.228 |
 
 ---
 
